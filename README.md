@@ -1,2 +1,2 @@
 # RAG
-“xperiments, prototypes, and ideas around Retrieval-Augmented Generation.
+Experiments, prototypes, and ideas around Retrieval-Augmented Generation.
