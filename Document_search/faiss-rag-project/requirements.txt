@@ -1,0 +1,6 @@
+faiss-cpu==1.8.0.post1
+numpy==1.26.4
+ollama==0.3.2
+pandas==2.2.2
+python-dotenv
+langchain-openai
